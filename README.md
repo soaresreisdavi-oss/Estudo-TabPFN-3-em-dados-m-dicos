@@ -339,101 +339,66 @@ Teste de Nemenyi
 
 ## Referências das bases de dados
 
-### UCI Machine Learning Repository
-
-Kelly, M., Longjohn, R. & Nottingham, K.
-UCI Machine Learning Repository (2023).
-
 ### DARWIN
-
-Fontanella, F.
-DARWIN. UCI Machine Learning Repository (2022).
-DOI: `10.24432/C55D0K`
+FONTANELLA, Francesco. DARWIN. Irvine: UCI Machine Learning Repository, 2022. Disponível em: https://doi.org/10.24432/C55D0K. Acesso em: 11 jul. 2026.
+Explicações das Variáveis: 
+CILIA, Nicole D. et al. Diagnosing Alzheimer’s disease from on-line handwriting: A novel dataset and performance benchmarking. Engineering Applications of Artificial Intelligence, v. 111, p. 104822, 2022. Disponível em: https://doi.org/10.1016/j.engappai.2022.104822. Acesso em: 7 out. 2026.
 
 ### Drug Induced Autoimmunity Prediction
-
-Huang, X.
-Drug Induced Autoimmunity Prediction. UCI Machine Learning Repository (2025).
-DOI: `10.24432/C5332M`
+HUANG, Xiaojie. Drug induced autoimmunity prediction. Irvine: UCI Machine Learning Repository, 2025. Disponível em: https://doi.org/10.24432/C5332M. Acesso em: 11 jul. 2026.
+Explicações das Variáveis: Arquivo *RDKit_ChemDes.xlsx* na mesma citação do banco de dados na seção Dataset Files.
 
 ### Bone Marrow Transplant: Children
-
-Sikora, W., Marek & Gudýs, A.
-Bone marrow transplant: children. UCI Machine Learning Repository (2020).
-DOI: `10.24432/C5NP6Z`
+SIKORA, Marek; WRÓBEL, Łukasz; GUDYŚ, Adam. Bone marrow transplant: children. Irvine: UCI Machine Learning Repository, 2020. Disponível em: https://doi.org/10.24432/C5NP6Z. Acesso em: 11 jul. 2026.
+Explicações das Variáveis: Explicado na citação acima na seção Variables Table
 
 ### Cervical Cancer (Risk Factors)
-
-Fernandes, C. J., Kelwin & Fernandes, J.
-Cervical Cancer (Risk Factors). UCI Machine Learning Repository (2017).
-DOI: `10.24432/C5Z310`
+FERNANDES, Kelwin; CARDOSO, Jaime; FERNANDES, Jessica. Cervical cancer (risk factors). Irvine: UCI Machine Learning Repository, 2017. Disponível em: https://doi.org/10.24432/C5Z310. Acesso em: 11 jul. 2026.
+Explicações das Variáveis: Explicado na citação acima na seção Additional Variable Information
 
 ### Cirrhosis Patient Survival Prediction
-
-Dickson, G. P. F. T. F. L., E. & Langworthy, A.
-Cirrhosis Patient Survival Prediction. UCI Machine Learning Repository (1989).
-DOI: `10.24432/C5R02G`
+DICKSON, E. et al. Cirrhosis patient survival prediction. Irvine: UCI Machine Learning Repository, 1989. Disponível em: https://doi.org/10.24432/C5R02G. Acesso em: 11 jul. 2026.
+Explicações das Variáveis: Explicado na citação acima na seção Additional Variable Information
 
 ### Differentiated Thyroid Cancer Recurrence
-
-Borzooei, S. & Tarokhian, A.
-Differentiated Thyroid Cancer Recurrence. UCI Machine Learning Repository (2023).
-DOI: `10.24432/C5632J`
+BORZOOEI, Shiva; TAROKHIAN, Aidin. Differentiated thyroid cancer recurrence. Irvine: UCI Machine Learning Repository, 2023. Disponível em: https://doi.org/10.24432/C5632J. Acesso em: 11 jul. 2026.
+Explicações das Variáveis: BORZOOEI, Shiva et al. Machine learning for risk stratification of thyroid cancer patients: a 15-year cohort study. European Archives of Oto-Rhino-Laryngology, v. 281, n. 4, p. 2095-2104, 2024. Disponível em: https://doi.org/10.1007/s00405-023-08299-w. Acesso em: 7 out. 2026.
 
 ### Echocardiogram
-
-Echocardiogram.
-UCI Machine Learning Repository (1988).
-DOI: `10.24432/C5QW24`
+UCI MACHINE LEARNING REPOSITORY. Echocardiogram. Irvine: University of California, 1988. Disponível em: https://doi.org/10.24432/C5QW24. Acesso em: 11 jul. 2026.
+Explicações das Variáveis: Explicado na citação acima na seção Additional Variable Information
 
 ### Estimation of Obesity Levels
-
-Estimation of Obesity Levels Based on Eating Habits and Physical Condition.
-UCI Machine Learning Repository (2019).
-DOI: `10.24432/C5H31Z`
+UCI MACHINE LEARNING REPOSITORY. Estimation of obesity levels based on eating habits and physical condition. Irvine: University of California, 2019. Disponível em: https://doi.org/10.24432/C5H31Z. Acesso em: 11 jul. 2026.
+Explicações das Variáveis: PALECHOR, Fabio Mendoza; MANOTAS, Alexis Gutierrez. Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico. Data in Brief, v. 25, p. 104344, 2019. Disponível em: https://doi.org/10.1016/j.dib.2019.104344. Acesso em: 7 out. 2026.
 
 ### Heart Failure Clinical Records
-
-Heart Failure Clinical Records.
-UCI Machine Learning Repository (2020).
-DOI: `10.24432/C5Z89R`
+UCI MACHINE LEARNING REPOSITORY. Heart failure clinical records. Irvine: University of California, 2020. Disponível em: https://doi.org/10.24432/C5Z89R. Acesso em: 11 jul. 2026.
+Explicações das Variáveis:Explicado na citação acima na seção Additional Variable Information
 
 ### Hepatitis
-
-Hepatitis.
-UCI Machine Learning Repository (1983).
-DOI: `10.24432/C5Q59J`
+UCI MACHINE LEARNING REPOSITORY. Hepatitis. Irvine: University of California, 1983. Disponível em: https://doi.org/10.24432/C5Q59J. Acesso em: 11 jul. 2026.
+Explicações das Variáveis:Explicado na citação acima na seção Additional Variable Information
 
 ### Neurofibromatosis Type 1
-
-Sharafi, A. H. E. S. V. A., P. & Ayter.
-Neurofibromatosis Type 1; Clinical Symptoms of Familial and Sporadic Cases.
-UCI Machine Learning Repository (2025).
-DOI: `10.5505/TurkHijyen.2025.06337`
+SHARAFI, P. et al. Neurofibromatosis Type 1; clinical symptoms of familial and sporadic cases. Turk Hijyen ve Deneysel Biyoloji Dergisi, 2025. Disponível em: https://doi.org/10.5505/TurkHijyen.2025.06337. Acesso em: 7 out. 2026. 
+Explicações das Variáveis:Explicado na citação acima na seção Additional Variable Information
 
 ### Parkinsons
-
-Little, M.
-Parkinsons. UCI Machine Learning Repository (2007).
-DOI: `10.24432/C59C74`
+LITTLE, Max. Parkinsons. Irvine: UCI Machine Learning Repository, 2007. Disponível em: https://doi.org/10.24432/C59C74. Acesso em: 11 jul. 2026
+Explicações das Variáveis:Explicado na citação acima na seção Additional Variable Information
 
 ### Chronic Kidney Disease
-
-Islam, M. A. & Akter, S.
-Risk Factor Prediction of Chronic Kidney Disease. UCI Machine Learning Repository (2020).
-DOI: `10.24432/C5WP64`
+ISLAM, Md. Ashiqul; AKTER, Shamima. Risk factor prediction of chronic kidney disease. Irvine: UCI Machine Learning Repository, 2020. Disponível em: https://doi.org/10.24432/C5WP64. Acesso em: 11 jul. 2026.. 
+Explicações das Variáveis: ISLAM, Md Ashiqul et al. Risk factor prediction of chronic kidney disease based on machine learning algorithms. In: INTERNATIONAL CONFERENCE ON INTELLIGENT SUSTAINABLE SYSTEMS (ICISS), 3., 2020, Thoothukudi. Proceedings [...]. IEEE, 2020. p. 952-957. Disponível em: https://doi.org/10.1109/ICISS49785.2020.9315878. Acesso em: 7 out. 2026.
 
 ### Student Depression Dataset
-
-Mohammed, S.
-Student Depression Dataset. Kaggle Code (2024).
-Acesso em: 11 de julho de 2026.
+MOHAMMED, Saifeldeen. Student depression dataset. [S. l.]: Kaggle Code, 2024. Disponível em: https://www.kaggle.com/code/saifeldeenmohammedm/student-depression-dataset. Acesso em: 11 jul. 2026. 
+Explicações das Variáveis: Especificados no Notebook da citação acima.
 
 ### Student Stress Monitoring Datasets
-
-Ovi, M. S. I.
-Student Stress Monitoring Datasets. Kaggle Datasets (2024).
-Acesso em: 11 de julho de 2026.
+OVI, Md Sultanul Islam. Student stress monitoring datasets. [S. l.]: Kaggle Datasets, 2024. Disponível em: https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets. Acesso em: 11 jul. 2026.
+Explicações das Variáveis: Especificados no Notebook da citação acima.
 
 ---
 

@@ -89,20 +89,30 @@ O pré-processamento utilizado nos modelos clássicos foi realizado por meio de 
 
 ### Variáveis numéricas
 
-* Imputação de valores ausentes pela mediana;
-* Padronização utilizando `RobustScaler`.
+- Imputação de valores ausentes pela mediana;
+- Padronização utilizando `RobustScaler`.
 
 ### Variáveis categóricas
 
-* Imputação de valores ausentes pela moda;
-* Codificação One-Hot;
-* Tratamento de categorias desconhecidas.
+- Imputação de valores ausentes pela moda;
+- Codificação One-Hot;
+- Tratamento de categorias desconhecidas.
 
 O pré-processamento foi incorporado a um `Pipeline` do Scikit-learn para garantir que o ajuste dos transformadores ocorresse exclusivamente nos dados de treinamento de cada fold, evitando vazamento de informação (*data leakage*).
 
-Também foram removidas variáveis que apresentavam relação lógica direta com a variável-alvo quando necessário. Um exemplo foi a remoção da variável `survival time` da base Bone Marrow Transplant: Children.
+### Prevenção de vazamento de dados
 
----
+Durante o pré-processamento, alguns atributos foram removidos das bases de dados devido ao risco de **vazamento de dados (*data leakage*)**.
+
+Esses atributos poderiam conter informações diretamente relacionadas ao resultado que se deseja prever ou informações que somente estariam disponíveis após o evento de interesse. A utilização dessas variáveis poderia permitir que os algoritmos obtivessem informações sobre a variável-alvo de forma inadequada, influenciando artificialmente o processo de decisão e resultando em uma estimativa de desempenho superior àquela esperada em uma aplicação real.
+
+Dessa forma, os atributos identificados como potenciais fontes de vazamento foram eliminados antes da etapa de treinamento dos modelos.
+
+A relação dos atributos removidos não é apresentada de forma centralizada neste README, pois as exclusões são especificadas individualmente em cada código, na seção **"Importando Data-Set"**, permitindo verificar diretamente quais variáveis foram removidas em cada conjunto de dados.
+
+Essa etapa foi realizada de forma individual para cada base, considerando as características e o significado das respectivas variáveis.
+
+Também foram removidas variáveis que apresentavam relação lógica direta com a variável-alvo quando necessário. Um exemplo foi a remoção da variável `survival time` da base Bone Marrow Transplant: Children.
 
 ## Modelos avaliados
 
